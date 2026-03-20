@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -28,6 +30,26 @@
 ---
 
 ## 🚀 Highlight Projects
+
+### 🫀 CardioFlow Monitor – Real-Time ECG Monitoring Platform
+A full-stack real-time ECG monitoring system that streams cardiac telemetry data through **Kafka**, processes it with anomaly detection, and renders live charts on a React dashboard.
+
+- Backend built with **ASP.NET Core (.NET 10)** — REST API + **SignalR** WebSocket push
+- Frontend built with **React + TypeScript + Vite** — live ECG chart, alert panel, patient card
+- **MIT-BIH Arrhythmia** dataset replay simulator (Python) feeding Kafka at 360 Hz
+- Anomaly detection rules: **heart rate threshold**, **RR interval**, and **annotation-based** alerts
+- Deployed: frontend on **Vercel**, backend on **Render (Docker)**
+
+🌐 [Live Dashboard](https://cardioflow-monitor-gcqv.vercel.app/) | 🔌 [Backend API](https://cardioflow-monitor-1.onrender.com/api/system/status)
+
+📸 **App Highlights**
+| Dashboard Overview |
+|--------------------|
+| ![CardioFlow Dashboard](https://github.com/xiaoha-cloud/cardioflow-monitor/blob/main/docs/screenshots/dashboard-overview.png?raw=true) |
+
+🔗 [GitHub Repo](https://github.com/xiaoha-cloud/cardioflow-monitor)
+
+---
 
 ### 🛰️ NASA Explorer – Space Data Visualization Platform
 An interactive web application visualizing space data from NASA's Open APIs.
