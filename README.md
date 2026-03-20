@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xiaoha</h1>
+<h1 align="center">Hi, I'm Xiaoha</h1>
 <h3 align="center">Master's in Software Development | Building Full-Stack & Data-Driven Applications</h3>
 
 <p align="left">
@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -29,9 +29,9 @@
 
 ---
 
-## 🚀 Highlight Projects
+## Highlight Projects
 
-### 🫀 CardioFlow Monitor – Real-Time ECG Monitoring Platform
+### CardioFlow Monitor – Real-Time ECG Monitoring Platform
 A full-stack real-time ECG monitoring system that streams cardiac telemetry data through **Kafka**, processes it with anomaly detection, and renders live charts on a React dashboard.
 
 - Backend built with **ASP.NET Core (.NET 10)** — REST API + **SignalR** WebSocket push
@@ -40,9 +40,9 @@ A full-stack real-time ECG monitoring system that streams cardiac telemetry data
 - Anomaly detection rules: **heart rate threshold**, **RR interval**, and **annotation-based** alerts
 - Deployed: frontend on **Vercel**, backend on **Render (Docker)**
 
-🌐 [Live Dashboard](https://cardioflow-monitor-gcqv.vercel.app/) | 🔌 [Backend API](https://cardioflow-monitor-1.onrender.com/api/system/status)
+[Live Dashboard](https://cardioflow-monitor-gcqv.vercel.app/) | [Backend API](https://cardioflow-monitor-1.onrender.com/api/system/status)
 
-📸 **App Highlights**
+**App Highlights**
 | Dashboard Overview |
 |--------------------|
 | ![CardioFlow Dashboard](https://github.com/xiaoha-cloud/cardioflow-monitor/blob/main/docs/screenshots/dashboard-overview.png?raw=true) |
@@ -51,7 +51,7 @@ A full-stack real-time ECG monitoring system that streams cardiac telemetry data
 
 ---
 
-### 🛰️ NASA Explorer – Space Data Visualization Platform
+### NASA Explorer – Space Data Visualization Platform
 An interactive web application visualizing space data from NASA's Open APIs.
 
 - Built with **React + Node.js**, styled with **Tailwind + shadcn/ui**
@@ -59,55 +59,55 @@ An interactive web application visualizing space data from NASA's Open APIs.
 - Includes **interactive charts**, **mobile responsiveness**, and **real-time API integration**
 - Demonstrates **smart search**, **data analysis**, and **predictive loading** with modern UI/UX
 
-🌐 [Live Frontend](https://nasa-project-75ovjnmyz-blairjade183s-projects.vercel.app/) | 🔌 [Backend API](https://nasa-project-vy99.onrender.com/api)
+[Live Frontend](https://nasa-project-75ovjnmyz-blairjade183s-projects.vercel.app/) | [Backend API](https://nasa-project-vy99.onrender.com/api)
 
-📸 **App Highlights**  
+**App Highlights**  
 | Dashboard | APOD | NEO Data |
 |-----------|------|----------|
 | ![Dashboard](https://github.com/xiaoha-cloud/nasa-project/blob/main/docs/screenshots/homepage-dashboard.png?raw=true) | ![APOD](https://github.com/xiaoha-cloud/nasa-project/blob/main/docs/screenshots/apod-page.png?raw=true) | ![NEO](https://github.com/xiaoha-cloud/nasa-project/blob/main/docs/screenshots/neo-dashboard.png?raw=true) |
 
-🔗 [GitHub Repo](https://github.com/xiaoha-cloud/nasa-project)
+[GitHub Repo](https://github.com/xiaoha-cloud/nasa-project)
 
 ---
 
-### 🅿️ Smart Parking System (iTwin Hackathon)
+### Smart Parking System (iTwin Hackathon)
 A real-time urban parking app leveraging **iTwin**, **Supabase**, and **iOS**.
 - Displays available parking spaces using **3D viewer** and **live updates**
 - Integrated **ECSQL + iModel + Supabase** for cross-platform data sync
 - iOS app supports search, map, and real-time status updates
 - Cooperate with @nanacode4 and @Levoyage
-- 🥉 3rd Place – **Bentley iTwin4Good Championship 2024** (42 teams)
+- 3rd Place – **Bentley iTwin4Good Championship 2024** (42 teams)
 
-👉 [GitHub Repo](https://github.com/Xiaoha-cloud/parking-iTwin)
+[GitHub Repo](https://github.com/Xiaoha-cloud/parking-iTwin)
 
 ---
 
-### 🍽️ Recipe Management System (Full-stack App)
+### Recipe Management System (Full-stack App)
 A full-featured meal planner app with recipes, inventory, and shopping lists.
 - Built with **Spring Boot + React Native**, deployed on **AWS Lambda**
 - **JWT authentication**, **Redis caching**, **MySQL RDS**, and a **recommendation engine**
 - Supports meal planning, weekly themes, and recipe recommendations
 
-📱 **App Screenshots**  
+**App Screenshots**  
 | Home Page | Recipe Details |
 |-----------|----------------|
 | ![Home Page](HomePage.png) | ![Recipe Details](RecipesDetailsPage.png) |
 
-🔗 [Frontend (React Native)](https://github.com/Simple-Recipes/frontend-React-Native/tree/dev) | [Backend (Spring Boot)](https://github.com/Simple-Recipes/backend)
+[Frontend (React Native)](https://github.com/Simple-Recipes/frontend-React-Native/tree/dev) | [Backend (Spring Boot)](https://github.com/Simple-Recipes/backend)
 
 ---
 
-### 🧪 BioReactLab – Metabolic Reaction Builder
+### BioReactLab – Metabolic Reaction Builder
 A Django + React app to simulate and balance metabolic reactions.
 - Features **formula validation**, **RDKit integration**, and **interactive visualization**
 - Real-time molecular preview, deployed on **Netlify + Railway**
 - Built for researchers and students in systems biology
 
-🌐 [Live Demo](https://shimmering-alfajores-f7f968.netlify.app)
+[Live Demo](https://shimmering-alfajores-f7f968.netlify.app)
 
 ---
 
-### 📈 Hotel Review Sentiment Analyzer (NLP)
+### Hotel Review Sentiment Analyzer (NLP)
 A Chinese text classification project using **LSTM** and **topic modeling**.
 - Used **Zhihu embeddings + BiLSTM** (Keras + TensorFlow)
 - Explored semantic themes with **Gensim LDA** and **pyLDAvis**
@@ -115,7 +115,7 @@ A Chinese text classification project using **LSTM** and **topic modeling**.
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 - GitHub: [@xiaoha-cloud](https://github.com/xiaoha-cloud)
 - LinkedIn: [Jiahong Lin](https://www.linkedin.com/in/jiahong-lin-8b74462b0/)
