@@ -65,11 +65,6 @@ A **SwiftUI** demo that layers **timestamp-bound reactions** on a mock podcast p
 |----------------|--------------|---------------------|
 | ![Episode player](https://github.com/xiaoha-cloud/podcast-reactions-demo/blob/main/docs/screenshots/episode-player.png?raw=true) | ![Comments hub](https://github.com/xiaoha-cloud/podcast-reactions-demo/blob/main/docs/screenshots/comments-hub.png?raw=true) | ![Moment 1](https://github.com/xiaoha-cloud/podcast-reactions-demo/blob/main/docs/screenshots/moment-comments1.png?raw=true) |
 
-| Moment comments (2) | Add comment | |
-|---------------------|-------------|--|
-| ![Moment 2](https://github.com/xiaoha-cloud/podcast-reactions-demo/blob/main/docs/screenshots/moment-comments2.png?raw=true) | ![Add comment](https://github.com/xiaoha-cloud/podcast-reactions-demo/blob/main/docs/screenshots/add-comment.png?raw=true) | |
-
-[GitHub Repo](https://github.com/xiaoha-cloud/podcast-reactions-demo)
 
 ---
 
