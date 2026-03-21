@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -48,6 +50,26 @@ A full-stack real-time ECG monitoring system that streams cardiac telemetry data
 | ![CardioFlow Dashboard](https://github.com/xiaoha-cloud/cardioflow-monitor/blob/main/docs/screenshots/dashboard-overview.png?raw=true) |
 
 🔗 [GitHub Repo](https://github.com/xiaoha-cloud/cardioflow-monitor)
+
+---
+
+### Podcast Reaction Demo – Timestamp-based Podcast Comments (iOS)
+A **SwiftUI** demo that layers **timestamp-bound reactions** on a mock podcast player: **All / Latest / Moments** tabs, a **moment thread** with **Timeline / Popular** sorting, and **local mock data** only.
+
+- Built with **SwiftUI + MVVM**, **iOS 17+**
+- Listening-first flow: player → comments hub → moment → add reaction sheet
+- **MockReactionService** + **MockData** for reproducible demos
+
+**App Highlights**  
+| Episode player | Comments hub | Moment comments (1) |
+|----------------|--------------|---------------------|
+| ![Episode player](https://github.com/xiaoha-cloud/podcast-reactions-demo/blob/main/docs/screenshots/episode-player.png?raw=true) | ![Comments hub](https://github.com/xiaoha-cloud/podcast-reactions-demo/blob/main/docs/screenshots/comments-hub.png?raw=true) | ![Moment 1](https://github.com/xiaoha-cloud/podcast-reactions-demo/blob/main/docs/screenshots/moment-comments1.png?raw=true) |
+
+| Moment comments (2) | Add comment | |
+|---------------------|-------------|--|
+| ![Moment 2](https://github.com/xiaoha-cloud/podcast-reactions-demo/blob/main/docs/screenshots/moment-comments2.png?raw=true) | ![Add comment](https://github.com/xiaoha-cloud/podcast-reactions-demo/blob/main/docs/screenshots/add-comment.png?raw=true) | |
+
+[GitHub Repo](https://github.com/xiaoha-cloud/podcast-reactions-demo)
 
 ---
 
