@@ -60,9 +60,11 @@ A **SwiftUI** demo that layers **timestamp-bound reactions** on a mock podcast p
 - Listening-first flow: player → comments hub → moment → add reaction sheet
 - **MockReactionService** + **MockData** for reproducible demos
 
-**App Highlights**  
-![podcast-demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/84b2cd31-cf11-4a3f-8976-4ab06ec47ef4)
+**App Highlights**
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/84b2cd31-cf11-4a3f-8976-4ab06ec47ef4" width="300"/>
+</p>
 
 ---
 
@@ -102,9 +104,6 @@ A full-featured meal planner app with recipes, inventory, and shopping lists.
 - Built with **Spring Boot + React Native**, deployed on **AWS Lambda**
 - **JWT authentication**, **Redis caching**, **MySQL RDS**, and a **recommendation engine**
 - Supports meal planning, weekly themes, and recipe recommendations
-
-**App Demo**  
-![RecipeAppDemo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9dba61f5-dd24-48a5-aa53-12e9ce04ebe0)
 
 
 ---
