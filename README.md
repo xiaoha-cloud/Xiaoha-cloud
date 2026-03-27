@@ -61,9 +61,7 @@ A **SwiftUI** demo that layers **timestamp-bound reactions** on a mock podcast p
 - **MockReactionService** + **MockData** for reproducible demos
 
 **App Highlights**  
-| Episode player | Comments hub | Moment comments (1) |
-|----------------|--------------|---------------------|
-| ![Episode player](https://github.com/xiaoha-cloud/podcast-reactions-demo/blob/main/docs/screenshots/episode-player.png?raw=true) | ![Comments hub](https://github.com/xiaoha-cloud/podcast-reactions-demo/blob/main/docs/screenshots/comments-hub.png?raw=true) | ![Moment 1](https://github.com/xiaoha-cloud/podcast-reactions-demo/blob/main/docs/screenshots/moment-comments1.png?raw=true) |
+![podcast-demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/84b2cd31-cf11-4a3f-8976-4ab06ec47ef4)
 
 
 ---
@@ -105,12 +103,9 @@ A full-featured meal planner app with recipes, inventory, and shopping lists.
 - **JWT authentication**, **Redis caching**, **MySQL RDS**, and a **recommendation engine**
 - Supports meal planning, weekly themes, and recipe recommendations
 
-**App Screenshots**  
-| Home Page | Recipe Details |
-|-----------|----------------|
-| ![Home Page](HomePage.png) | ![Recipe Details](RecipesDetailsPage.png) |
+**App Demo**  
+![RecipeAppDemo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9dba61f5-dd24-48a5-aa53-12e9ce04ebe0)
 
-[Frontend (React Native)](https://github.com/Simple-Recipes/frontend-React-Native/tree/dev) | [Backend (Spring Boot)](https://github.com/Simple-Recipes/backend)
 
 ---
 
